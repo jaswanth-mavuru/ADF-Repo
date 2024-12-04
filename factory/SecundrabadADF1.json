@@ -1,0 +1,9 @@
+{
+	"name": "SecundrabadADF1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36920ece-5527-4c65-a1c2-39bd09851aea",
+		"tenantId": "0689aa33-b0d0-40bf-984a-e779b1ef28d5"
+	}
+}
